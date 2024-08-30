@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DailyCommitmentForm/static/css/main.362cd2c6.css",
+    "main.js": "/DailyCommitmentForm/static/js/main.21d8077e.js",
+    "static/js/453.bc9f0c02.chunk.js": "/DailyCommitmentForm/static/js/453.bc9f0c02.chunk.js",
+    "index.html": "/DailyCommitmentForm/index.html",
+    "main.362cd2c6.css.map": "/DailyCommitmentForm/static/css/main.362cd2c6.css.map",
+    "main.21d8077e.js.map": "/DailyCommitmentForm/static/js/main.21d8077e.js.map",
+    "453.bc9f0c02.chunk.js.map": "/DailyCommitmentForm/static/js/453.bc9f0c02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362cd2c6.css",
+    "static/js/main.21d8077e.js"
+  ]
+}
