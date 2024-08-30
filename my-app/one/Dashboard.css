@@ -1,0 +1,53 @@
+/* Dashboard.css */
+
+.Dashboard {
+    display: flex;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+  }
+  
+  .Sidebar {
+    width: 250px;
+    background-color: #f4f4f4;
+    border-right: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 2px 0 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .Sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .Sidebar a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.1em;
+    padding: 10px;
+    display: block;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .Sidebar a:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .Main-content {
+    flex: 1;
+    padding: 20px;
+    background-color: #fff;
+    overflow-y: auto;
+  }
+  
+  .Main-content h1 {
+    margin-top: 0;
+    font-size: 2em;
+  }
+  
